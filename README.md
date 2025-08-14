@@ -26,16 +26,14 @@ User ratings and reviews
 Similar movie recommendations
 
 1. Home Page
-<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_1.png" alt="home page" width="600">
+<img src="https://github.com/deepakkumar9470/nextjs-movie/blob/main/public/movie_1.png" alt="home page" width="600">
 
-2. Dashboard Page
-<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_2.png" alt="dashboard page">
+2. Movie Cards Page
+<img src="https://github.com/deepakkumar9470/nextjs-movie/blob/main/public/movie_2.png" alt="cards page">
 
-3. Resume Builder Page
-<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_3.png" alt="resume builder page">
+3. Details Page
+<img src="https://github.com/deepakkumar9470/nextjs-movie/blob/main/public/movie_3.png" alt="details page">
 
-4. Interview Preparation Page
-<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_4.png" alt="interview preparation page">
+4. Movie Search Page
+<img src="https://github.com/deepakkumar9470/nextjs-movie/blob/main/public/movie_4.png" alt="movie search page">
 
-5. Quiz Result Page 
-<img src="https://github.com/deepakkumar9470/nextjs15-career-coach-platform/blob/main/public/career_5.png" alt="quiz result page">
